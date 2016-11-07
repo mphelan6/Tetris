@@ -1,0 +1,4 @@
+echo Attempting to make directory for classes...
+mkdir classes/
+javac -d classes/ src/*
+echo done.
